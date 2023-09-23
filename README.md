@@ -14,7 +14,11 @@ Thanks for visiting my space! I'm currently working at Publivate as a Full Stack
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-
 Connect with me on [LinkedIn](https://www.linkedin.com/in/akshaya-krishnaswamy-36813a91/)
+
+
+#### Projects in this repository
+
+1. [PyWordle](pyWordle) - Text based Wordle clone for terminal
 
 
