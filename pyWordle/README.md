@@ -48,7 +48,7 @@ To install and run the Wordle Clone, follow these steps:
 ### Usage
 
 Now that you have pyWordle installed, you can start playing the game:
-python pywordle.py
+```python pywordle.py```
 
 Follow the onscreen instructions to guess the word! Have fun
 
